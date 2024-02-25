@@ -1,0 +1,25 @@
+.main-container {
+    margin-bottom: 10px;
+    display: flex;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+.image-container {
+    padding-right: 10px;
+}
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.link-container{
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+.whole-container{
+    margin: 0 15rem 0 15rem;
+}
